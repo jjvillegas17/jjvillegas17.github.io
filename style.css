@@ -1,0 +1,107 @@
+#jj {
+	background-color: #c1946a;
+	padding: 50px;
+	margin: 100px;
+	height: 500px;
+	width: 500px;
+	text-align: center;
+	float: left;
+	border-radius: 25%;
+}
+#jj h2 {
+	font-size: 36px;
+	font-family: "Arial";
+	color: #405d27;
+}
+
+#jj a {
+	color: #405d27;
+}
+
+
+#ai {
+	background-color: #c1946a;
+	padding: 50px;
+	margin: 100px;
+	height: 500px;
+	width: 500px;
+	text-align: center;
+	float: right;
+	border-radius: 25%;
+}
+#ai h2 {
+	font-size: 36px;
+	font-family: "Arial";
+	color: #405d27;
+}
+
+#ai a {
+	color: #405d27;
+}
+
+
+
+#antonette {
+	background-color: #c1946a;
+	padding: 50px;
+	margin: 100px;
+	height: 500px;
+	width: 500px;
+	text-align: center;
+	float: left;
+	border-radius: 25%;
+}
+#antonette h2 {
+	font-size: 36px;
+	font-family: "Arial";
+	color: #405d27;
+}
+
+#antonette a {
+	color: #405d27;
+}
+
+
+#allen {
+	background-color: #c1946a;
+	padding: 50px;
+	margin: 100px;
+	height: 500px;
+	width: 500px;
+	text-align: center;
+	float: right;
+	border-radius: 25%;
+}
+#allen h2 {
+	font-size: 36px;
+	font-family: "Arial";
+	color: #405d27;
+}
+#allen a {
+	color: #405d27;
+}
+
+body {
+	background-color: #405d27;
+}
+	
+h1 {
+	text-align: center;
+	margin: 200px;
+	font-size: 200px;
+	font-family: "Arial";
+}
+img {
+	height: 300px;
+	width: 300px;
+	border-radius: 70%;
+	border-color: #405d27;
+	border-style: double;
+	border-width: 40px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#antonette #allen {
+	float: right;
+}
