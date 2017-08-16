@@ -1,0 +1,55 @@
+fieldset{
+	background-color: #ffff66;
+	width: 800px;
+	height: 800px;
+	margin: auto;;
+	border-radius: 20px;
+	
+}
+#profile{
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+}
+#about_me{
+	margin-top: 350px;
+	height: 200px;
+}
+#subject{
+	height: 200px;
+	margin-top: 30px;
+}
+p{
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 20px;
+	margin-top: -20px;
+	margin-left: 40px;
+}
+h2{
+	font-family: "Lucida Console", Monaco, monospace;	
+	margin-left: 20px;
+	margin-top: 0px;
+	padding-top: 20px;
+}
+#top{
+	border: 0;
+	float: left;
+	width: 800px;
+	height: 300px;
+	margin-top: 30px;
+}
+#picture{
+	background-color: #80ffff;
+	width: 220px;
+	height: 220px;
+	margin-left: 590px;
+	margin-top: -260px;
+}
+.group{
+	border-radius: 20px;
+	background-color: #80ffff;
+}
+img{
+	margin-left: 10px;
+	margin-top: 10px;
+}
